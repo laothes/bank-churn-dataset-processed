@@ -1,27 +1,3 @@
-#####################################################
-# catalogue
-# packages
-# import data
-# 1.EDA
-## NA values
-## duplicate values
-## correlation matrix
-## The density of multiple continued variables with category
-## The percentage of being exited or not for discrete variables
-## Distribution of Number of Products with Exited or not
-# 2.split dataset
-# 3.normalize the numerical columns
-## normalize('Age','CreditScore', 'Balance','EstimatedSalary')
-## tf-idf the surname (this part will take a long time, please reload processed data)
-# 4.feature engineering
-# 5.Models (default and adjusted)
-## logistic regression
-## random forest
-## XGBoost
-# 6.submission
-# 7.adjusting process
-#####################################################
-
 # install packages
 requiredPackages <- c("corrplot", "ggplot2","tidyr","GGally","caret","dplyr",
                       "tidytext","glmnet","randomForest","randomForest")
