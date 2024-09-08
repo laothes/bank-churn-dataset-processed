@@ -1,4 +1,4 @@
-This is to the 
+R code for Binary Classification with a Bank Churn Dataset in kaggle.
 Address: [https://www.kaggle.com/competitions/playground-series-s4e1/]
 The code consists of the following 7 parts:
 1. EDA
